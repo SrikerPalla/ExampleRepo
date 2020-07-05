@@ -1,7 +1,7 @@
 Hi 
 
-My name is SRIKER REDDY PALLA
+Welcome to my Git Page
 
-THIS IS MY GIT REPOSITORY
+I'm Sriker Palla
 
-This is my REIGN
+
