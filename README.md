@@ -1,7 +1,5 @@
-Hi 
+DONE WITH THE EXAMPLE
 
-Welcome to my Git Page
-
-I'm Sriker Palla
+THANK YOU!!!!!
 
 
