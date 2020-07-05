@@ -1,7 +1,5 @@
 Hi 
 
-My name is SRIKER REDDY PALLA
+My name is SRIKER PALLA
 
 THIS IS MY GIT REPOSITORY
-
-This is my REIGN
